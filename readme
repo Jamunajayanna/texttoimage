@@ -3,3 +3,6 @@ Developed a multilingual text-to-image generation system using Google Translate 
 Integrated translation pipeline with Hugging Face’s diffusion models and optimized image generation using PyTorch and CUDA for high-resolution outputs.
 
 Designed a scalable GenAI workflow for language-agnostic visual storytelling, demonstrating expertise in NLP, computer vision, and cross-lingual AI systems.
+
+
+https://colab.research.google.com/drive/1x4o0IwyZq5Z7_k9jgDTGg269kDTnHBG4?usp=drive_link
